@@ -46,7 +46,7 @@
     <header class="header_section" style="background-color: #fff;">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
               <img style="width: 300px;" src="images/ws2.png" alt="logo">
           </a>
 
@@ -62,7 +62,7 @@
 
             <div id="myNav" class="overlay">
               <div class="overlay-content">
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
                 <a href="about.html">About</a>
                 <a href="contact.html">Contact Us</a>
               </div>
@@ -88,7 +88,7 @@
                 <div class="slider_item-container">
                   <div class="slider_item-detail">
                     <h1>
-                      NOUS VOUS CONNECTONS
+                      WE CONNECT YOU
                     </h1>
                     <p>
                       VOTRE PARTENAIRE DE L'EXTERNALISATION DE LA RELATION CLIENT.
@@ -110,7 +110,7 @@
                 <div class="slider_item-container">
                   <div class="slider_item-detail">
                     <h1>
-                      NOUS VOUS CONNECTONS
+                      WE CONNECT YOU
                     </h1>
                     <p>
                       VOTRE NOUVELLE DISTINATION DE L'EXTERNALISATION.
@@ -144,7 +144,7 @@
   <section class="about_section layout_padding">
     <div class="container" id="WHAT_WE_DO">
       <h2 class="text-uppercase">
-        WHAT WE DO
+        CE QUE NOUS FAISONS
       </h2>
     </div>
 
@@ -235,11 +235,11 @@
         <h2>
           Qui sommes-nous
         </h2>
-        <p>
-          Wavescall est leader sur le marché des centres de contact Omni canal et plurilingue en algerié,
-          depuis 2011, nous accompagnons nos clients dans leurs développements, en apportant des soulition adaptées
-          aux besion spécifiques a chaque activité
-</p>
+          <p>
+            Wavescall est leader sur le marché des centres de contact Omni canal et plurilingue 
+            en algerié, depuis 2011. nous accompagnons nos clients dans leurs développements, 
+            en apportant des soulition adaptées aux besion spécifiques a chaque activité. 
+          </p>
         <div>
           <a href="about.html">
             Read More
@@ -345,7 +345,7 @@
   <section class="contact_section ">
     <div class="container d-flex justify-content-center">
       <h2 class="text-uppercase">
-        Get in touch
+        contactez nous
       </h2>
     </div>
     <div class="container-fluid layout_padding-top">
@@ -403,7 +403,7 @@
           <div class="col-md-40"> <!--col-md-4-->
             <div class="d-flex">
               <h5>
-                Contact Us
+                Notre contact
               </h5>
             </div>
             <div class="d-flex ">
@@ -469,7 +469,7 @@
   <!-- footer section -->
   <section class="container-fluid footer_section">
     <p>
-      &copy; 2022 All Rights Reserved. Design by
+      &copy; 2023 All Rights Reserved. Design by
       <a href="https://html.design/">Premium Templates</a>
     </p>
   </section>
